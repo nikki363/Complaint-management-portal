@@ -1,2 +1,2 @@
 # Complaint-management-portal
-A  portal where employees can register their complaints and track them
+A  portal where employees can register their complaints and track them.A complaint management system which allows users to lodge individual or company level complaints over a wide range of categories.Additional features include commenting,approval of admin to enter into database and selective visibility of complaints.Added appropriate administrative controls like marking a complaint as resolved and sending to higher authority.Used Django to design and develop the backend and web interface.
